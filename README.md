@@ -13,3 +13,18 @@ Complete this code lab on Kaggle where you’ll learn prompting fundamentals. Ma
 💡 What You’ll Learn
 Today you’ll explore the evolution of LLMs, from transformers to techniques like fine-tuning and inference acceleration. You’ll also get trained in the art of prompt engineering for optimal LLM interaction.
 The code lab will walk you through getting started with the Gemini API and cover several prompt techniques and how different parameters impact the prompts.
+
+---------
+**Day 2**
+---------
+Complete Unit 2: “Embeddings and Vector Stores/Databases”, which is:
+[Optional] Listen to the summary podcast episode for this unit (created by NotebookLM).
+Read the “Embeddings and Vector Stores/Databases” whitepaper.
+
+Complete these code labs on Kaggle:
+i) Build a RAG question-answering system over custom documents
+ii) Explore text similarity with embeddings
+iii) Build a neural classification network with Keras using embeddings
+
+💡 What You’ll Learn
+Today you will learn about the conceptual underpinning of embeddings and vector databases and how they can be used to bring live or specialist data into your LLM application. You’ll also explore their geometrical powers for classifying and comparing textual data. 
