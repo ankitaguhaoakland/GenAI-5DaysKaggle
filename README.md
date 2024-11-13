@@ -1,5 +1,6 @@
+---------
 **Day 1**
-
+---------
 1. Complete the Intro Unit – “Foundational Large Language Models & Text Generation”, which is:
 [Optional] Listen to the summary podcast episode for this unit (created by NotebookLM).
 Read the “Foundational Large Language Models & Text Generation” whitepaper.
