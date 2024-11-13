@@ -9,6 +9,6 @@ Read the “Foundational Large Language Models & Text Generation” whitepaper.
 Read the “Prompt Engineering” whitepaper.
 Complete this code lab on Kaggle where you’ll learn prompting fundamentals. Make sure you phone verify your account before starting, it's necessary for the code labs.
 
-💡What You’ll Learn
+💡 What You’ll Learn
 Today you’ll explore the evolution of LLMs, from transformers to techniques like fine-tuning and inference acceleration. You’ll also get trained in the art of prompt engineering for optimal LLM interaction.
 The code lab will walk you through getting started with the Gemini API and cover several prompt techniques and how different parameters impact the prompts.
