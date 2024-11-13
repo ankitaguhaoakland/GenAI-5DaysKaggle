@@ -1,6 +1,7 @@
 ---------
 **Day 1**
 ---------
+🎒 
 1. Complete the Intro Unit – “Foundational Large Language Models & Text Generation”, which is:
 [Optional] Listen to the summary podcast episode for this unit (created by NotebookLM).
 Read the “Foundational Large Language Models & Text Generation” whitepaper.
@@ -17,6 +18,7 @@ The code lab will walk you through getting started with the Gemini API and cover
 ---------
 **Day 2**
 ---------
+🎒
 Complete Unit 2: “Embeddings and Vector Stores/Databases”, which is:
 [Optional] Listen to the summary podcast episode for this unit (created by NotebookLM).
 Read the “Embeddings and Vector Stores/Databases” whitepaper.
