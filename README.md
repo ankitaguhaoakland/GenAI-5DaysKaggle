@@ -28,3 +28,26 @@ iii) Build a neural classification network with Keras using embeddings
 
 💡 What You’ll Learn
 Today you will learn about the conceptual underpinning of embeddings and vector databases and how they can be used to bring live or specialist data into your LLM application. You’ll also explore their geometrical powers for classifying and comparing textual data. 
+
+---------
+**Day 3**
+---------
+
+
+
+
+
+
+---------
+**Day 4**
+---------
+
+
+
+
+
+
+
+---------
+**Day 5**
+---------
