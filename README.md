@@ -2,7 +2,7 @@
 Complete schedule along with Code Notebooks, Whitepapers to learn about Foundational Models, various LLMs, and GenAI . 
 
 ---------
-**##Day 1**
+##Day 1
 ---------
 🎒 Complete the Intro Unit – “Foundational Large Language Models & Text Generation”, which is:
 [Optional] Listen to the summary podcast episode for this unit [created by NotebookLM](https://www.youtube.com/watch?v=mQDlCZZsOyo).
@@ -18,7 +18,7 @@ Today you’ll explore the evolution of LLMs, from transformers to techniques li
 The code lab will walk you through getting started with the Gemini API and cover several prompt techniques and how different parameters impact the prompts.
 
 ---------
-**##Day 2**
+##Day 2
 ---------
 🎒 Complete Unit 2: “Embeddings and Vector Stores/Databases”, which is:
 [Optional] Listen to the summary podcast episode for this unit [created by NotebookLM](https://www.youtube.com/watch?v=1CC39K76Nqs).
