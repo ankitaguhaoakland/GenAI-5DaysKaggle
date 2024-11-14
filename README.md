@@ -11,7 +11,7 @@ Read the [Foundational Large Language Models & Text Generation](https://github.c
 Complete Unit 1 – “Prompt Engineering”, which is:
 [Optional] Listen to the summary podcast episode for this unit [created by NotebookLM](https://www.youtube.com/watch?v=F_hJ2Ey4BNc).
 Read the [Prompt Engineering](https://github.com/ankitaguhaoakland/GenAI-5DaysKaggle/blob/main/Newwhitepaper_Prompt%20Engineering_v4.pdf) whitepaper.
-Complete this code lab on Kaggle where you’ll learn prompting fundamentals. Make sure you phone verify your account before starting, it's necessary for the code labs.
+Complete this code lab on [Kaggle](https://github.com/ankitaguhaoakland/GenAI-5DaysKaggle/blob/main/day-1-prompting.ipynb) where you’ll learn prompting fundamentals. Make sure you phone verify your account before starting, it's necessary for the code labs.
 
 💡 What You’ll Learn
 Today you’ll explore the evolution of LLMs, from transformers to techniques like fine-tuning and inference acceleration. You’ll also get trained in the art of prompt engineering for optimal LLM interaction.
