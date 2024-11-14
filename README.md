@@ -35,7 +35,17 @@ Today you will learn about the conceptual underpinning of embeddings and vector 
 ---------
 ## Day 3
 ---------
+🎒 Today’s Assignments
 
+Complete Unit 3: “Generative AI Agents”, which is: [Optional] Listen to the summary podcast episode for this unit (created by NotebookLM).
+Read the “Generative AI Agents” whitepaper.
+
+Complete these code labs on Kaggle:
+ i) Talk to a database with function calling
+ ii) Build an agentic ordering system in LangGraph
+
+💡 What You’ll Learn
+Learn to build sophisticated AI agents by understanding their core components and the iterative development process. The code labs cover how to connect LLMs to existing systems and to the real world. Learn about function calling by giving SQL tools to a chatbot, and learn how to build a LangGraph agent that takes orders in a café.
 
 
 
