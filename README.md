@@ -1,3 +1,6 @@
+# 5 Days Gen AI with Google and Kaggle
+Complete schedule along with Code Notebooks, Whitepapers to learn about Gen AI. 
+
 ---------
 **Day 1**
 ---------
