@@ -25,9 +25,9 @@ The code lab will walk you through getting started with the Gemini API and cover
 Read the [Embeddings and Vector Stores/Databases](https://github.com/ankitaguhaoakland/GenAI-5DaysKaggle/blob/main/whitepaper_Embeddings%20%26%20vector%20stores.pdf) whitepaper.
 
 Complete these code labs on Kaggle:
-i) [Build a RAG question-answering system over custom documents](https://github.com/ankitaguhaoakland/GenAI-5DaysKaggle/blob/main/day-2-i-document-q-a-with-rag.ipynb)
-ii) [Explore text similarity with embeddings](https://github.com/ankitaguhaoakland/GenAI-5DaysKaggle/blob/main/day-2-ii-embeddings-and-similarity-scores.ipynb)
-iii) [Build a neural classification network with Keras using embeddings](https://github.com/ankitaguhaoakland/GenAI-5DaysKaggle/blob/main/day-2-iii-classifying-embeddings-with-keras.ipynb)
+1. [Build a RAG question-answering system over custom documents](https://github.com/ankitaguhaoakland/GenAI-5DaysKaggle/blob/main/day-2-i-document-q-a-with-rag.ipynb)
+2. [Explore text similarity with embeddings](https://github.com/ankitaguhaoakland/GenAI-5DaysKaggle/blob/main/day-2-ii-embeddings-and-similarity-scores.ipynb)
+3. [Build a neural classification network with Keras using embeddings](https://github.com/ankitaguhaoakland/GenAI-5DaysKaggle/blob/main/day-2-iii-classifying-embeddings-with-keras.ipynb)
 
 💡 What You’ll Learn
 Today you will learn about the conceptual underpinning of embeddings and vector databases and how they can be used to bring live or specialist data into your LLM application. You’ll also explore their geometrical powers for classifying and comparing textual data. 
