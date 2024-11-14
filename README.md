@@ -6,7 +6,7 @@ Complete schedule along with Code Notebooks, Whitepapers to learn about Gen AI.
 ---------
 🎒 Complete the Intro Unit – “Foundational Large Language Models & Text Generation”, which is:
 [Optional] Listen to the summary podcast episode for this unit [created by NotebookLM](https://www.youtube.com/watch?v=mQDlCZZsOyo).
-Read the “Foundational Large Language Models & Text Generation” whitepaper.
+Read the [Foundational Large Language Models & Text Generation](https://github.com/ankitaguhaoakland/GenAI-5DaysKaggle/blob/main/whitepaper_Foundational%20Large%20Language%20models%20%26%20text%20generation.pdf) whitepaper.
 
 Complete Unit 1 – “Prompt Engineering”, which is:
 [Optional] Listen to the summary podcast episode for this unit (created by NotebookLM).
