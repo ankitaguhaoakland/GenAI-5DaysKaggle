@@ -1,5 +1,5 @@
 # 5 Days Gen AI with Google and Kaggle
-Complete schedule along with Code Notebooks, Whitepapers to learn about Gen AI. 
+Complete schedule along with Code Notebooks, Whitepapers to learn about Foundational Models, various LLMs, and GenAI . 
 
 ---------
 **Day 1**
@@ -9,8 +9,8 @@ Complete schedule along with Code Notebooks, Whitepapers to learn about Gen AI.
 Read the [Foundational Large Language Models & Text Generation](https://github.com/ankitaguhaoakland/GenAI-5DaysKaggle/blob/main/whitepaper_Foundational%20Large%20Language%20models%20%26%20text%20generation.pdf) whitepaper.
 
 Complete Unit 1 – “Prompt Engineering”, which is:
-[Optional] Listen to the summary podcast episode for this unit (created by NotebookLM).
-Read the “Prompt Engineering” whitepaper.
+[Optional] Listen to the summary podcast episode for this unit [created by NotebookLM](https://www.youtube.com/watch?v=F_hJ2Ey4BNc).
+Read the [Prompt Engineering](https://github.com/ankitaguhaoakland/GenAI-5DaysKaggle/blob/main/Newwhitepaper_Prompt%20Engineering_v4.pdf) whitepaper.
 Complete this code lab on Kaggle where you’ll learn prompting fundamentals. Make sure you phone verify your account before starting, it's necessary for the code labs.
 
 💡 What You’ll Learn
