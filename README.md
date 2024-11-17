@@ -50,7 +50,19 @@ Learn to build sophisticated AI agents by understanding their core components an
 ---------
 ## Day 4
 ---------
+🎒 Today’s Assignment
 
+Complete Unit 4: “Domain-Specific LLMs”, which is:
+
+[Optional] Listen to the summary podcast episode for this unit [created by NotebookLM](https://www.youtube.com/watch?v=b1a4ZOQ8XdI).
+Read the [Solving Domain-Specific Problems Using LLMs](https://github.com/ankitaguhaoakland/GenAI-5DaysKaggle/blob/main/Newwhitepaper_Day%204-Solving%20Domain-Specific%20problems%20using%20LLMs.pdf) whitepaper.
+Complete these code labs on Kaggle:
+1. [Use Google Search data in generation](https://github.com/ankitaguhaoakland/GenAI-5DaysKaggle/blob/main/day-4-i-google-search-grounding.ipynb)
+2. [Tune a Gemini model for a custom task.](https://github.com/ankitaguhaoakland/GenAI-5DaysKaggle/blob/main/day-4-ii-fine-tuning-a-custom-model.ipynb)
+
+💡 What You’ll Learn
+In today’s reading, you’ll delve into the creation and application of specialized LLMs like SecLM and MedLM/Med-PaLM, with insights from the researchers who built them.
+In the code labs you will learn how to add real world data to a model beyond its knowledge cut-off by grounding with Google Search.  You will also learn how to fine-tune a custom Gemini model using your own labeled data to solve custom tasks.
 
 
 
