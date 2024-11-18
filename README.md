@@ -73,7 +73,7 @@ Complete Unit 5: “MLOps for Generative AI”, which is:
 
 [Optional] Listen to the summary podcast episode for this unit [created by NotebookLM](https://www.youtube.com/watch?v=k9S6IhiUUj4).
 Read the [MLOps for Generative AI](https://github.com/ankitaguhaoakland/GenAI-5DaysKaggle/blob/main/Newwhitepaper_Day%205-Operationalizing%20Generative%20AI%20on%20Vertex%20AI.pdf) whitepaper.
-No code lab for today! We will do a code walkthrough and live demo of goo.gle/e2e-gen-ai-app-starter-pack, a resource created for making MLOps for Gen AI easier and accelerating the path to production. Please go through the repository in advance.
+No code lab for today! We will do a code walkthrough and live demo of [goo.gle/e2e-gen-ai-app-starter-pack](https://github.com/GoogleCloudPlatform/generative-ai/tree/main/gemini/sample-apps/e2e-gen-ai-app-starter-pack), a resource created for making MLOps for Gen AI easier and accelerating the path to production. Please go through the repository in advance.
 
 💡 What You’ll Learn
 Discover how to adapt MLOps practices for Generative AI and leverage Vertex AI's tools for foundation models and generative AI applications.
