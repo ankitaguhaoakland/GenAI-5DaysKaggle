@@ -64,11 +64,16 @@ Complete these code labs on Kaggle:
 In today’s reading, you’ll delve into the creation and application of specialized LLMs like SecLM and MedLM/Med-PaLM, with insights from the researchers who built them.
 In the code labs you will learn how to add real world data to a model beyond its knowledge cut-off by grounding with Google Search.  You will also learn how to fine-tune a custom Gemini model using your own labeled data to solve custom tasks.
 
-
-
-
-
-
 ---------
 ## Day 5
 ---------
+🎒 Final Assignment
+
+Complete Unit 5: “MLOps for Generative AI”, which is:
+
+[Optional] Listen to the summary podcast episode for this unit [created by NotebookLM](https://www.youtube.com/watch?v=k9S6IhiUUj4).
+Read the [MLOps for Generative AI](https://github.com/ankitaguhaoakland/GenAI-5DaysKaggle/blob/main/Newwhitepaper_Day%205-Operationalizing%20Generative%20AI%20on%20Vertex%20AI.pdf) whitepaper.
+No code lab for today! We will do a code walkthrough and live demo of goo.gle/e2e-gen-ai-app-starter-pack, a resource created for making MLOps for Gen AI easier and accelerating the path to production. Please go through the repository in advance.
+
+💡 What You’ll Learn
+Discover how to adapt MLOps practices for Generative AI and leverage Vertex AI's tools for foundation models and generative AI applications.
