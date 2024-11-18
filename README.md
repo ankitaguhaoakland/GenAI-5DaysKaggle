@@ -77,3 +77,6 @@ No code lab for today! We will do a code walkthrough and live demo of goo.gle/e2
 
 💡 What You’ll Learn
 Discover how to adapt MLOps practices for Generative AI and leverage Vertex AI's tools for foundation models and generative AI applications.
+
+
+[Complete List of all the daily livestream for 5-Day Gen AI Intensive Course](https://www.youtube.com/playlist?list=PLqFaTIg4myu-b1PlxitQdY0UYIbys-2es)
