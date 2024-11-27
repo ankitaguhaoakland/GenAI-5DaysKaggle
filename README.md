@@ -1,5 +1,5 @@
 # 5 Days Gen AI with Google and Kaggle
-Complete schedule along with Code Notebooks, Whitepapers to learn about Foundational Models, various LLMs, and GenAI . 
+Complete schedule along with Code Notebooks, Whitepapers to learn about Foundational Models, various LLMs, and GenAI. For more information and reference please refer to [5 Day Gen AI Intensive Course with Google](https://rsvp.withgoogle.com/events/google-generative-ai-intensive)
 
 ---------
 ## Day 1
